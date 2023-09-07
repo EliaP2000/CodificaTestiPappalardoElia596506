@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="tei-lite.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<!ELEMENT choise(p|s)>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notes de linguistique: Papiers de Ferdinand de Saussure acquis entre 1955 et 1988</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Elia Pappalardo 596506</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <date>2023-09-05</date>
+                <availability status="restricted"><p></p></availability>
+            </publicationStmt>
+            <sourceDesc><bibl>
+                <title>Trois premières conférences à l'Université (cours d'ouverture, novembre 1891)<title>
+                <author>Ferdinand de Saussure</author>
+                <publisher>Archives Ferdinand de Saussure - CONSULTATION DIFFEREE</publisher>
+                <date>novembre 1891</date>
+                <Archives>Bibliothèque de Genève - Manuscripts et archives privées</Archives>
+            </bibl></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front><numberPage>14</numberPage></front>
+        <group>
+            <text>
+                <body>Li l'otude <cancelled>pratajicul.</cancelled><up>linguisty</up> de <cancelled>tel on tel fnupa</cancelled><up>tris gus ou d'i seule<up>
+                      </br>reconmait pour <up>se</up>/ but <up>final est</up> principal <cancelled>l'étrude</cancelled><up>la varification d'attribute</up> des lois
+                      </br>et des procédes <up>universale</up> du laugage, on demande jusfu'à
+                      </br>guel point ces etuales <choise>p</choise>ont leur place daus 
+                      </br>une <!--facoltà universitaria-->Faculté des Lettres<!--//-->, <sovrascripted>ot</sovrascripted>ou si elles n'auraiens
+                      </br>pas un plau ejalemt convenal la <!--citazione-->P: Fac.<!--//-->
+                      </br>Las Sciences? Ce serait renouveler la <cancelled>fameuse</cancelled>
+                      </br>Gustiare <up>bien corties</up> agiteé autrefois parv <!--nome di un autore-->Max Miikes<!--//--> et
+                      </br><!--nomve di autore-->Schleiches<!--//-->;<up><cancelled>rs le savr</cancelled></up> il y 3 a eu <up>MM. s la saves</up> un temps oi la scirens.
+                      </br>In langage s'trait persuadeé à elle-même
+                      </br>Gu'elle etait l science naturelle <up>pasper isc. qyddqs</up>; je ne <cancelled>revi</cancelled>
+                      </br>sorge pas à démontres <cancelled>la fausté que</cancelled><up>costre guesi</up> c'etrait
+                      </br>bene profonde illusion la sc part, mais au
+                      </br>contraire à cousvavev fue ca delav sv cvos
+                      </br>et Guirm clos. A' mesure <up>su'</up> on a naieux compris
+                      </br>la ve'ritalle nature <problem>ore</problem><up>des faits a</up> laugage <up>qui soret si près de us mais d'autt + deff. a saisi os <problem>lrens</problem> est</up>; il est deverm
+                      </br>plus évident fue la science du language est una
+                      </br>science historique et rieu <underlined>d'autre qu'i science</underlined><down>parl étallé</down>
+                      </br>historique.
+                </body>
+                <!--<back><appendice del primo testo</back>-->
+            </text>
+            <text>
+                <body><cancelled>Comme c'est la la litre dont<up>ce la cetta finalité di <!--citazione-->sc. Birtoni pi<!--//--></up> se reclamara
+                </br>seridameca tante espica d'etailes linguistig. pour figurev deus una 
+                </br><!--citazione-->Fac.<!--//--> des lettres; mais comme particuliérement je
+                </br>panis semblex appela a mattre eu lumièere la seus
+                </br>du mort histoire qui figure de la titre des.
+                </cancelled>
+                </body>
+            </text>
+        </group>
+        <back><!--appendice del testo composito--></back>
+    </text>
+</TEI>
